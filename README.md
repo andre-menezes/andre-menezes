@@ -29,7 +29,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=andre-menezes&theme=react&show_icons=true" />
-  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+  &nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react" />
 </div>
 
