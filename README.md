@@ -4,7 +4,9 @@
 
 <img align="right" height="500" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621982977678.png" alt="octocat" />
 
-<p align="justify">&nbsp &nbsp &nbsp Sou apaixonado por tecnologia e o quanto ela é capaz de transformar a vida das pessoas. Tenho desenvolvido meus conhecimentos na área de TI desde 2003. Retomei meus estudos na área de TI em 2020, com o intuito de construir minha carreira como programador. Também sou apaixonado por educação, pois busco constantemente novos aprendizados e compartilhá-los com a comunidade.</p>
+<p align="justify">&nbsp &nbsp &nbsp Sou apaixonado por tecnologia e o quanto ela é capaz de transformar a vida das pessoas 👨‍💻. Meus passatempos favoritos são estudar 📚 , ouvir música 🎵, viajar ✈️ e curtir a família 👨‍👩‍👧</p>
+<p align="justify">&nbsp &nbsp &nbsp Tenho como metas de vida praticar esporte ao ar livre 🚴, conhecer novos lugares/culturas 🗺, aprender novos idiomas 📖 e tocar algum instrumento 🎸</p>
+<p>&nbsp &nbsp &nbsp Ah! E como todo programador que se preze, sou apaixonado por café! ☕</p>
 
 ---
 
