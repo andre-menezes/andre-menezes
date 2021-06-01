@@ -1,4 +1,4 @@
-<h1>< Andre Menezes's GitHub Profile 🖖 /></h1>
+<h1>< Seja bem vindo(a)! 🖖 /></h1>
 
 <br>
 
@@ -10,7 +10,7 @@
 
 ---
 
-<h2>Languages e Tools:</h2>
+<h2>Linguagens e Ferramentas:</h2>
 
 <br>
 
@@ -27,7 +27,7 @@
 
 ---
 
-<h2> Status </h2>
+<h2> Estatísticas </h2>
 
 <div>
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=andre-menezes&theme=react&show_icons=true" />
@@ -37,7 +37,7 @@
 
 ---
 
-<h2>Featured Repositories</h2>
+<h2>Principais Repositórios</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tryber&repo=sd-09-project-trybewallet&theme=react)](https://github.com/tryber/sd-09-project-trybewallet/tree/andre-menezes-trybewallet-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tryber&repo=sd-07-project-recipes-app&theme=react)](https://github.com/tryber/sd-07-project-recipes-app/tree/main-group-34)
