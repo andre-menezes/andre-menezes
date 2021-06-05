@@ -8,6 +8,13 @@
 <p align="justify">&nbsp &nbsp &nbsp Tenho como metas de vida praticar esporte ao ar livre 🚴, conhecer novos lugares/culturas 🗺, aprender novos idiomas 📖 e tocar algum instrumento 🎸</p>
 <p>&nbsp &nbsp &nbsp Ah! E como todo programador que se preze, sou apaixonado por café! ☕</p>
 
+<br>
+
+<h3>Quer me conhecer melhor? Entre em contato comigo:</h3>
+<li><img src="https://image.flaticon.com/icons/png/512/747/747314.png" width=30/> &nbsp <a href="mailto:andre_menezes@outlook.com">andre_menezes@outlook.com</a></li>
+<li><img src="https://image.flaticon.com/icons/png/512/86/86346.png" width=30/> &nbsp (14) 99687-5702</li>
+<li><img src="https://image.flaticon.com/icons/png/512/61/61109.png" width=30/> &nbsp <a href="https://www.linkedin.com/in/andre-smenezes/">@andre-smenezes</a></li>
+
 ---
 
 <h2>Linguagens e Ferramentas:</h2>
