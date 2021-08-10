@@ -4,9 +4,9 @@
 
 <img align="right" height="500" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621982977678.png" alt="octocat" />
 
-<p align="justify">&nbsp &nbsp &nbsp Sou apaixonado por tecnologia e o quanto ela é capaz de transformar a vida das pessoas 👨‍💻. Meus passatempos favoritos são estudar 📚 , ouvir música 🎵, viajar ✈️ e curtir a família 👨‍👩‍👧</p>
+<p align="justify">&nbsp &nbsp &nbsp Estudante de Desenvolvimento Web e apaixonado por tecnologia e educação 👨‍💻. Meus passatempos favoritos são estudar 📚 , ouvir música 🎵, viajar ✈️ e curtir a família 👨‍👩‍👧</p>
 <p align="justify">&nbsp &nbsp &nbsp Tenho como metas de vida praticar esporte ao ar livre 🚴, conhecer novos lugares/culturas 🗺, aprender novos idiomas 📖 e tocar algum instrumento 🎸</p>
-<p>&nbsp &nbsp &nbsp Ah! E como todo programador que se preze, sou apaixonado por café! ☕</p>
+<p>&nbsp &nbsp &nbsp 'Bora' tomar um café?! ☕</p>
 
 <br>
 
