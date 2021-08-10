@@ -6,7 +6,7 @@
 
 <p align="justify">&nbsp &nbsp &nbsp Estudante de Desenvolvimento Web e apaixonado por tecnologia e educação 👨‍💻. Meus passatempos favoritos são estudar 📚 , ouvir música 🎵, viajar ✈️ e curtir a família 👨‍👩‍👧</p>
 <p align="justify">&nbsp &nbsp &nbsp Tenho como metas de vida praticar esporte ao ar livre 🚴, conhecer novos lugares/culturas 🗺, aprender novos idiomas 📖 e tocar algum instrumento 🎸</p>
-<p>&nbsp &nbsp &nbsp 'Bora' tomar um café?! ☕</p>
+<p>&nbsp &nbsp &nbsp 'Bora' tomar um café ☕ e bater um papo 🤝 ?! </p>
 
 <br>
 
