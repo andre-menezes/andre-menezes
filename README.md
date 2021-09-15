@@ -21,13 +21,16 @@
 
 <br>
 
-<div style="display: flex" align="center">
+<div style="backgroundColor: white" align="center">
   <img height="50" src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png" alt="html5" />
   <img height="50" src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png" alt="css3" />
-  <img height="50" src="https://www.devexhub.com/wp-content/uploads/2019/12/javascript-icon-png-23.png" alt="Java Script" />
+  <img height="50" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" alt="Java Script" />
   <img height="50" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" alt="git" />
   <img height="50" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" alt="react" />
   <img height="50" src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png" alt="redux" />
+  <img height="50" src="https://pics.freeicons.io/uploads/icons/png/19218518301553750371-512.png" alt="mysql" />
+  <img height="50" src="https://pics.freeicons.io/uploads/icons/png/1888890291551942128-512.png" alt="mongodb" />
+  <img height="50" src="https://pics.freeicons.io/uploads/icons/png/8954758561551942278-512.png" alt="nodejs" />
 </div>
 
 <br>
