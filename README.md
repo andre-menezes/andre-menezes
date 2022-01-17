@@ -31,6 +31,7 @@
   <img height="50" src="https://pics.freeicons.io/uploads/icons/png/19218518301553750371-512.png" alt="mysql" />
   <img height="50" src="https://pics.freeicons.io/uploads/icons/png/1888890291551942128-512.png" alt="mongodb" />
   <img height="50" src="https://pics.freeicons.io/uploads/icons/png/8954758561551942278-512.png" alt="nodejs" />
+  <img heigth="50" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-64.png" alt="python" />
 </div>
 
 <br>
