@@ -49,10 +49,3 @@
 ![Snake animation](https://github.com/andre-menezes/andre-menezes/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
----
-
-<h2>Principais Repositórios</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tryber&repo=sd-09-project-trybewallet&theme=react)](https://github.com/tryber/sd-09-project-trybewallet/tree/andre-menezes-trybewallet-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tryber&repo=sd-07-project-recipes-app&theme=react)](https://github.com/tryber/sd-07-project-recipes-app/tree/main-group-34)
